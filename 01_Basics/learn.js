@@ -3,9 +3,9 @@ let accountEmail = "md.sharik5012@gmail.com"
 var accountPassword = "123456"
 comment = "Coding is life"
 let accountState;
-/* this is comment: in java script without assinging variable
- like Let or var a variable can be assigned likr in comment
- but it is not a prefered always use variable syntax
+/* this is comment:java script without assinging variable
+ like "Let" or "var" a variable can be assigned like in comment
+ but it is not a prefered always use variable syntax.
 */
 
 
