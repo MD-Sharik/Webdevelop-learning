@@ -54,6 +54,10 @@
 // const hero1 = new String('sharik')
 // console.log(hero1.indexOf('a'))
 
-let name = "sharik"
-let score = 25
-console.log(`this is my new score ${score} and this is my new name is ${name}`);
+// let name = "sharik"
+// let score = 25
+// console.log(`this is my new score ${score} and this is my new name is ${name}`);
+let x = 3;
+let y = ++x;
+
+console.log(`x:${x}, y:${y}`);
